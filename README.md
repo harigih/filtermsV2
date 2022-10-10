@@ -9,7 +9,7 @@
 
 <h1 align="center">
 
-  <b> 𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓 𝐁𝐎𝐓</b>
+  <b> filtermsV2</b>
 
 </h1>
 
@@ -93,7 +93,7 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/STARLIGHT-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/filtermsV2)
 
 ## Commands
 
