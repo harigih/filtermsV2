@@ -100,7 +100,7 @@
             "required": false  
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/Whitedeviljoypow/joypow/issues/22",
+            "description": "choose b/w single or double buttons https://github.com/Saifudeebot/filtermsV2",
             "value": "True",
             "required": false         
         },
