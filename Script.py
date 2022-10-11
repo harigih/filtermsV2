@@ -55,7 +55,7 @@ Note:- Give a user details
 <b>𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂</b>
 ››  /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/ms_alone1>MS</a>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 <b>𝙿𝙸𝙽 𝙰 𝙼𝙴𝚂𝚂𝙰𝙶𝙴../</b>
 <b>𝙰𝙻𝙻 𝚃𝙷𝙴 𝙿𝙸𝙽 𝚁𝙴𝙿𝙻𝙰𝚃𝙴𝙳 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 𝙲𝙰𝙽 𝙱𝙴 𝙵𝙾𝚄𝙽𝙳 𝙷𝙴𝚁𝙴::</b>
