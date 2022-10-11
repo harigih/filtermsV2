@@ -4,8 +4,8 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/Hari_OP>𝙷𝙰𝚁𝙸</a>
-✯ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/tamilhb>𝚃𝙰𝙼𝙸𝙻𝙷𝙱</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a https://t.me/ms_alone1>MS</a>
+✯ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 : <a href=https://t.me/+EtSwiLn60EkyYmQ1>MOVIES REQUEST GROUP</a>
 ✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/+AaJO1Ej6T441YjQ1>𝙼𝚂 𝙱𝙾𝚃𝚉</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
@@ -26,7 +26,7 @@ class script(object):
 ➪ /batch ›› <b>𝚃𝙾 𝙲𝚁𝙴𝙰𝚃𝙴 𝙻𝙸𝙽𝙺 𝙵𝙾𝚁 𝙼𝚄𝙻𝚃𝙸𝙿𝙻𝙴 𝙵𝙸𝙻𝙴𝚂.</b>
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 <code>/batch https://t.me/c/1720839160/29 https://t.me/c/1720839160/33</code>
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Hari_OP><b>𝙷𝙰𝚁𝙸</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/ms_alone1><b>MS</b></a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 •/whois :-give a user full details"""
